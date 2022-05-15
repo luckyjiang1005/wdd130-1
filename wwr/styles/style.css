@@ -1,0 +1,117 @@
+<body>
+    <div id="content">
+        <header>
+        body {
+            background-color: #F0F8FF;
+     }
+     
+     #content {
+       max-width: 1600px;
+       background-color: #FFFFF0;
+       margin: 0 auto;
+     
+     }
+     
+     .banner-box img {
+         width: 100%;
+     }                
+     
+     nav a {
+        text-align: center;
+        color: #fcfbfb;
+        text-decoration: underline;
+    }  
+     h1, h2, h3, h4, h5, h6 {
+         background-color: #F0FFFF;
+         font-family: 'Rubik', sans-serif;
+         font-size: 2em;
+         padding: 10px;
+       text-align: center;
+     }  
+     
+     p {
+       font-family: 'Hind', sans-serif;
+     font-size: 1.45em;
+      line-height: 1.4em;
+       padding: 10px;
+     }
+     
+     
+     nav {
+      background-color: #F0FFFF;
+       padding: 1em;
+     }
+     
+     nav a {
+         color: #0000FF;
+         padding: 1em 1em;
+       line-height: 1.5em;
+       text-decoration: none;
+     }
+     nav li {
+         font-family: 'Hind', serif;
+       font-size: 1.5em;
+     }
+     nav ul {
+       list-style: none;
+     }
+     
+     
+     
+     img {
+       max-width: 100%; 
+       ;
+     }
+     
+     
+     .logo {
+       width: 80px;
+       position: relative;
+       box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.15);
+     }
+     
+     .banner {
+       width: 100%;
+     }
+     
+     .home-right-img{
+       width:355px;
+       height:250px;
+      box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.15);
+       border-radius: 4px;  
+     }
+     
+     .home-left-img{
+       width:355px;
+       height:250px;
+     box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.15);
+       border-radius: 4px;
+     }
+     
+     
+     
+     .socialmedia {
+       padding: 12px;
+     }
+     
+     .info {
+       font-size: 12px;
+     }
+     
+     .icon {
+       width: 45px;
+       height: 45px;
+       border-radius: 4px;
+     box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.15);
+     }
+     
+     
+     
+     .home-headline-3 { 
+     text-align: center;
+     }
+        
+          
+        </footer>
+    </div>
+</body>
